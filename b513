@@ -1,0 +1,20 @@
+void is_prime(int num){
+    for(i=0;i<num;i++){
+        num % i 
+        
+         print Y 
+         
+         print N
+        
+    }
+    
+}
+
+int main()
+
+   scanf("%d",n);
+   
+   for(i=0;i<n;i++){
+       scanf("%d",&num)
+       is_prime(num);
+   }
