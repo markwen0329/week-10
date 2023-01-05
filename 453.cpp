@@ -5,7 +5,11 @@ int num;
 printf("plese enter a number");
 scanf("%d", num);
 }
-ifmain () {
+if main () {
+scanf("%d",&a);
+printf("")
+scanf("%d",&b);
+scanf("%d",&c);
 if num>=0 and num==int(num**0.5)*int(num**0.5):
     printf("Yes")
   elif num<0:
